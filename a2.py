@@ -1,5 +1,4 @@
 # Nirvan Sarju
-# Student No. 500889908
 
 def grayscale(picture): 
   #Standard grayscale function using luminance
